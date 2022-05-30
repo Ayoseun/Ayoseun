@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayoseun
-- 👀  Android developer using Android studio and Flutter. A Blockchain technology enthusiast
-- 🌱 I’m currently proficient in Kotlin,Java,Javascript with intermediate skills in Python
-- 💞️ I’m looking to collaborate on Blockchain Devs who have strong knowledge in Smart contract and DApp creation
+- 👀  Full Stack developer, Blockchain smart contract developer,
+- 🌱 I’m currently proficient in Kotlin,Java,Javascript,dart,solidity,react JS with intermediate skills in Python
+- 💞️ I’m looking to collaborate on Blockchain projects and contribute to open source softwares
 - 📫 Ayoseunsolomon@gmail.com
 
 <!---
