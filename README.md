@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Ayoseun
-- 👀  Full Stack developer, Blockchain smart contract developer,
-- 🌱 I’m currently proficient in Kotlin,Java,Javascript,dart,solidity,react JS with intermediate skills in Python
-- 💞️ I’m looking to collaborate on Blockchain projects and contribute to open source softwares
-- 📫 Ayoseunsolomon@gmail.com
+Ayo Solomon is Software Engineer and a technical writer with immense knowledge and a passionate speaker about open source, blockchain, software products, and serverless technologies.
 
-<!---
-Ayoseun/Ayoseun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aside from slapping the keyboard till something magical emerge, he writes a lot of articles Here where he shares his knowledge and sometimes contributes to open source.
+
+👯 I’m looking to collaborate on more open source projects.
+
+💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, Mobile technologies, NodeJs, Serverless Technologies, Open Source etc.
+
+📫 How to reach me:
+
+Social Media
+Twitter | LinkedIn | Portfolio 
+Technical Writing Profiles:
+Blog |Medium 
+😄 Pronouns: he/him
+
+⚡ Fun fact: I love ice-creams 🥳
+
+My Recent Blogposts ✍️
+My Blog
+
+Build and Deploy ERC20 Token in 3 Steps
