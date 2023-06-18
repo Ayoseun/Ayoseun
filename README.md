@@ -19,6 +19,9 @@ Blog |Medium
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoseun&layout=compact)](https://github.com/yushi1007)
 
+Technical Skills
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
 ⚡ Fun fact: I love ice-creams 🥳
 
 My Recent Blogposts ✍️
