@@ -14,6 +14,11 @@ Technical Writing Profiles:
 Blog |Medium 
 😄 Pronouns: he/him
 
+
+[![Ayoseun’s github stats](https://github-readme-stats.vercel.app/api?username=ayoseun)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoseun&layout=compact)](https://github.com/yushi1007)
+
 ⚡ Fun fact: I love ice-creams 🥳
 
 My Recent Blogposts ✍️
