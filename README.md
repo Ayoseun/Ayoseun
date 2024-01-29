@@ -97,6 +97,11 @@ My Recent Blogposts ✍️
 
 # Blog posts
 <!-- DEVTO:START -->
+- [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
+- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
+- [Build a Full Stack Interchain dApp with Next.js, Solidity & Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
+- [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
+- [Create Better Content with These AI Tools](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
 <!-- DEVTO:END -->
 
 
