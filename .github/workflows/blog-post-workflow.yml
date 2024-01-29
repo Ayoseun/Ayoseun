@@ -18,7 +18,6 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/ayoseun"
-                uses: gautamkrishnar/blog-post-workflow@v1
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: MEDIUM
