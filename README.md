@@ -14,7 +14,7 @@ Social Media:
 
 
 Technical Writing Profiles:
-Blog |Medium 
+Blog |Medium |Dev.to |Hashnode
 😄 Pronouns: he/him
 
 
@@ -94,9 +94,6 @@ Web3
 ⚡ Fun fact: I love ice-creams 🥳
 
 My Recent Blogposts ✍️
-
-# Blog posts
-
 
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
