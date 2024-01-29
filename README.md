@@ -94,6 +94,10 @@ Web3
 ⚡ Fun fact: I love ice-creams 🥳
 
 My Recent Blogposts ✍️
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 My Blog
 
 Build and Deploy ERC20 Token in 3 Steps
