@@ -98,6 +98,11 @@ My Recent Blogposts ✍️
 # Blog posts
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
-My Blog
 
-Build and Deploy ERC20 Token in 3 Steps
+
+## &#x1f4c8; GitHub Stats
+
+![Ayoseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoseun&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoseun&layout=compact&theme=tokyonight)](https://github.com/ayoseun)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ayoseun)
