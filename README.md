@@ -93,7 +93,7 @@ Web3
 
 ⚡ Fun fact: I love ice-creams 🥳
 
-My Recent Blogposts ✍️
+## My Recent Blogposts ✍️
 
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
