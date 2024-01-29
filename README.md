@@ -97,30 +97,14 @@ My Recent Blogposts ✍️
 
 # Blog posts
 
-<!-- BLOG:START -->
-- [How to Build a Cross-chain Airdrop Dapp With Solidity, NextJs, and Axelar](https://blog.idrisolubisi.com/how-to-build-a-cross-chain-airdrop-dapp-with-solidity-nextjs-and-axelar)
-- [How to Create an Interchain Token with Axelar in 4 Steps](https://blog.idrisolubisi.com/how-to-create-an-interchain-token-with-axelar-in-4-steps)
-- [Solving the TypeError: no matching function Error in Hardhat](https://blog.idrisolubisi.com/typeerror-no-matching-function-argumentkey-valueaddress-codeinvalidargument-version662)
-- [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://blog.idrisolubisi.com/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar)
-- [Create Better Content with These AI Tools](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023)
-<!-- BLOG:END -->
-
-### FreeCodeCamp
-<!-- FCC:START -->
-- [How to Build a Paraphrasing Tool with ReactJs &amp; ChatGPT Turbo](https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/)
-- [Decentralized Identity – Build a Profile with Next.js, Ethereum &amp; Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)
-- [Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next](https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/)
-- [How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs](https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/)
-- [What is Ansible? A Tool to Automate Parts of Your Job](https://www.freecodecamp.org/news/what-is-ansible/)
-<!-- FCC:END -->
 
 <!-- DEVTO:START -->
-- [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
-- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
-- [Build a Full Stack Interchain dApp with Next.js, Solidity & Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
-- [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
-- [Create Better Content with These AI Tools](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
 <!-- DEVTO:END -->
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
 
 
 ## &#x1f4c8; GitHub Stats

@@ -14,12 +14,9 @@ jobs:
       - uses: khaosdoctor/blog-post-workflow@master
         with:
           comment_tag_name: DEVTO
-          feed_list: "https://dev.to/feed/olanetsoft"
+          feed_list: "https://dev.to/feed/ayoseun"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: BLOG
-          feed_list: "https://blog.idrisolubisi.com/rss.xml"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: FCC
-          feed_list: "https://www.freecodecamp.org/news/author/idris/rss"
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/@ayoseunsolomon"
+     
