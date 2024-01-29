@@ -13,8 +13,9 @@ Social Media:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-Technical Writing Profiles:
+### Technical Writing Profiles:
 Blog |Medium |Dev.to |Hashnode
+
 😄 Pronouns: he/him
 
 
