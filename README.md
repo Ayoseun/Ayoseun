@@ -96,13 +96,8 @@ Web3
 
 ## My Recent Blogposts ✍️
 
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Golang Channels for Beginners:](https://dev.to/ayoseun/understanding-golang-channels-for-beginners-2log)
-- [Understanding Ethereum JSONRPC Calls](https://dev.to/ayoseun/understanding-ethereum-jsonrpc-calls-5f3e)
-- [Why do i keep hearing token staking?](https://dev.to/ayoseun/why-do-i-keep-hearing-token-staking-1feo)
-- [How to stream pending blockchain transactions with geth&lpar;Go-Ethereum&rpar;](https://dev.to/ayoseun/how-to-stream-pending-transactions-with-gethgo-ethereum-3gdf)
-- [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
-<!-- BLOG-POST-LIST:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
 
 
