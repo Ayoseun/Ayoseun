@@ -22,5 +22,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/@ayoseunsolomon"
+          feed_list: "https://medium.com/feed/@ayoseunsolomon"
      
