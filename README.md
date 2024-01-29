@@ -96,8 +96,8 @@ Web3
 My Recent Blogposts ✍️
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 My Blog
 
 Build and Deploy ERC20 Token in 3 Steps
