@@ -104,6 +104,8 @@ Web3
 - [Using one smart contract address across multiple Blockchains.](https://dev.to/ayoseun/first-post-1mp0)
 <!-- DEVTO:END -->
 
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 
 ## &#x1f4c8; GitHub Stats
