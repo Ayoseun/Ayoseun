@@ -1,8 +1,12 @@
-Ayo Solomon is Software Engineer and a technical writer with immense knowledge and a passionate speaker about open source, blockchain, software products, and serverless technologies.
+Ayo Solomon is a skilled software engineer and technical writer with expertise in open source, blockchain, software products, and serverless technologies. He has contributed to DEV.To, authored various contents for section engineering publications and Ethereum StackExchange, and is an founding member of Learnweb3dao.
 
-Aside from slapping the keyboard till something magical emerge, he writes a lot of articles Here where he shares his knowledge and sometimes contributes to open source.
+With experience building solutions across EVM, Rust powered Blockachains, including Stellar, Polkadot, Solana, Ayo Solomon is a sought-after software engineer and technical writer. He builds relationships with key stakeholders, including developers, engineers, and product managers, and leads strategic initiatives with influential teams and individuals.
 
-👯 I’m looking to collaborate on more open source projects.
+Solomon engages with the developer community through meetups, boot camps, hackathons, lectures, spaces and training. He educates web3 builders and the Backend Lead at NITDA Lagos, He also mentors at WIBA a coding community with over 7k+ active women learning software engineering in web2 and web3.
+
+He is also skilled in aggregating feedback from the developer community, prioritizing feature requests, and aligning internal organizations with developer partners' needs. Ayo has given several talks, workshops, and live coding demos, both virtually and onsite, inspiring and educating others as a speaker.
+
+Aside from slapping the keyboard till something magical emerge, he writes a lot of articles where he shares his knowledge and sometimes contributes to open source.
 
 💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, Mobile technologies, NodeJs, Serverless Technologies, Open Source etc.
 
