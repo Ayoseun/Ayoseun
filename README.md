@@ -109,11 +109,11 @@ Web3
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
+- [Explore, Monitor, and React to Upcoming Ethereum Transactions in Golang: Using Geth-LTE to Scan the…](https://blog.blockmagnates.com/explore-monitor-and-react-to-upcoming-ethereum-transactions-in-golang-using-geth-lte-to-scan-the-43bb331e8f33?source=rss-f3368253d548------2)
 - [Golang Frameworks and Libraries for Blockchain Development: Empowering Innovation](https://blog.blockmagnates.com/blockchain-technology-has-rapidly-gained-traction-across-industries-for-its-ability-to-47659554f46a?source=rss-f3368253d548------2)
 - [What is a crypto private key](https://medium.com/@ayoseunsolomon/what-is-a-crypto-private-key-018450d8725c?source=rss-f3368253d548------2)
 - [Understanding Ethereum JSONRPC Calls](https://blog.blockmagnates.com/understanding-ethereum-jsonrpc-calls-d5168462b38d?source=rss-f3368253d548------2)
 - [Blockchain Payment- an ecosystem?](https://medium.com/@ayoseunsolomon/blockchain-payment-an-ecosystem-bbd977ab70a4?source=rss-f3368253d548------2)
-- [Exploring the Potential of Blockchain to Help Us Better Understand Our World](https://medium.com/@ayoseunsolomon/exploring-the-potential-of-blockchain-to-help-us-better-understand-our-world-8ddb269d7bb6?source=rss-f3368253d548------2)
 <!-- MEDIUM:END -->
 
 
